@@ -30,6 +30,12 @@ const themes = {
     text_color: "68b587",
     bg_color: "0a0f0b",
   },
+  hunter: {
+    title_color: "0fbcd3 ",
+    icon_color: "0fbcd3 ",
+    text_color: "ffffff",
+    bg_color: "1d1f21",
+  },
   gruvbox: {
     title_color: "fabd2f",
     icon_color: "fe8019",
