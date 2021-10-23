@@ -324,6 +324,12 @@ const themes = {
     text_color: "0088ff",
     bg_color: "193549",
   },
+  hunter: {
+    title_color: "0fbcd3",
+    icon_color: "0fbcd3",
+    text_color: "ffffff",
+    bg_color: "1d1f21",
+  },
 };
 
 module.exports = themes;
