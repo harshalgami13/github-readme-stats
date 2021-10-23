@@ -24,6 +24,12 @@ const themes = {
     text_color: "a9fef7",
     bg_color: "141321",
   },
+  hunter: {
+    title_color: "0fbcd3",
+    icon_color: "0fbcd3",
+    text_color: "ffffff",
+    bg_color: "1d1f21",
+  },
   merko: {
     title_color: "abd200",
     icon_color: "b7d364",
